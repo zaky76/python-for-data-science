@@ -96,6 +96,8 @@ elif study_hours > 0:
 else:
     print("Start coding today!")
     
+
+    
 if study_hours >= 1.5 and is_consistent:
     print("Goal: You will become a Data Scientist soon!")
 elif study_hours > 0:
